@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>frame</title>
+</head>
+<body>
+	<iframe src="main.html" name="leftframe" width="45%" height="800"> </iframe>
+
+	<iframe src="fruit.html" name="rightframe" width="45%" height="800"></iframe>
+	
+
+
+	</body>
+	</html>
