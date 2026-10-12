@@ -1,0 +1,58 @@
+<!doctype html>
+<html>
+<head>
+ <title>Bio_data</title>
+ <style>
+ 	h1{
+ 		text-align:center;
+ 		color:red;
+ 	}
+ 	body
+ 	{
+		background-color:white;
+		
+	}
+	h2{
+		background-color:red;
+	
+		}
+	.new
+	{
+		border:solid green 2px;
+		background-color:lightblue;
+	}			
+		
+ </style>
+ </head>
+ 
+ <body>
+ 	<h1>BIO-DATA</h1>
+	<h2>personal details</h2>
+	
+	<div class="new">
+	<h3>Name:&nbsp;SURAJ R
+	<h3>DOB:04/06/2005</h3>
+	<h3>PLACE: Pandalam</h3>
+	<h3>blood group:A+</h3>	
+	</div>
+	
+	
+	<h2>Qualification</h2>
+	<div class="new">
+	<h3><ul><h3><li>10th</li></ul></h3>
+	<h3><ul><li>plus two</li></ul><h3>
+	<h3><ul><li>BCA</li></h3></ul>
+	</div>
+	
+	<h2>Hobbies</h2>
+	<div class="new">
+	<ul><li><h3>listening music</ul></h3></li>
+	<ul><li><h3>reading</ul></li></h3>
+	</div>
+	<h2>Contact details</h2>
+	<div class="new">
+	<h3>Phone N.o: 12345567890<br><br>
+	Email: suraj@gmail.com</h3>
+ 	</div>
+ 
+ </body> 

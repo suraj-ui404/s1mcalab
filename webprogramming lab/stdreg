@@ -1,0 +1,69 @@
+<!doctype html>
+<html>
+<head>
+	<title>student registtration</title>
+</head>
+<body>
+	<div style="background-color:grey">
+	<form>
+		<center><h1>STUDENT REGISTRATION FORM</h1></center>
+		<label> FIRST NAME: </label>
+		<input type ="text" name="fn">
+		
+		<label> LAST NAME:</label>
+		<input type="text" name="">
+		<br><br>
+		<label>GENDER</label>
+		<input type="radio" name="gender" value="MALE">MALE
+		<input type="radio" name="gender" value="FEMALE">FEMALE
+		<br><br>
+		<label>DOB:</label>
+		<input type="date" name="dob">
+		<br><br>
+		<label>Phone n.o:</label>
+		<input type="text" name="" maxlength="10">
+		<br><br>
+		<label>E-mail</label>
+		<input type="text" name="">
+		<br><br>
+		<label>ADRESS:</label>
+		<input type="text" name="">
+		<br><br>
+		<label>QUALIFICATION:</label>
+		<select name="qua">
+		<option>MCA REGULAR</option>
+		<option>MCA INTEGRATED</option>
+		</select>
+		<br><br>
+		<label>QUALIFICATION:</label>
+		<select>
+		<option>degree</option>
+		<option>plus-two</option>
+		<option>10th</option>
+		</select>
+		
+		<br><br>
+		<label>photo:</label>
+		<input type="file" name="">
+		<br><br>
+		<label>password</label>
+		<input type="password" name="" maxlength="6">
+		<br><br>
+		<label>confirm password</label>
+		<input type="password" name="" maxlength="6">
+		
+		<br><br>
+		<center><input type="submit" value="submit">
+	
+		<input type="reset" value="RESET"></center>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		</div>
