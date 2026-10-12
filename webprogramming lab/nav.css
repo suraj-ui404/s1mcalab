@@ -1,0 +1,47 @@
+.main
+{
+display:block;
+position:fixed;
+background:green;
+width: 150px;
+height: 100%;
+padding:6px,8px,6px,16px;
+font-size:20px;
+  
+  
+}
+a
+{
+display:block;
+margin-top:35px;
+margin-left:10px;
+text-decoration:none;
+color:white;
+}
+.main a:hover
+{
+color:red;
+}
+.about
+{
+display:flex;
+padding-left:40%;
+margin-bottom:100%;
+}
+.vim
+{
+padding-left:40%;
+margin-bottom:100%;
+}
+.con
+{
+padding-left:40%;
+margin-bottom:100%;
+} 
+
+.dep
+{
+padding-left:40%;
+margin-bottom:100%;
+}
+
